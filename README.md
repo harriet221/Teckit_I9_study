@@ -1,5 +1,7 @@
 # Teckit_I9_study
 
+Teck!t java back-end 7기<br>
+CS 스터디 - 아이구(I9)<br>
 각자 공부한 내용 올리는 백업용 repo<br>
 
 ### 팀원

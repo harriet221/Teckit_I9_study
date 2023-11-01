@@ -12,7 +12,15 @@ CS 스터디 - 아이구(I9)<br>
 
 <br>
 
+
+## 커밋 메시지 규칙
+week00_name:본인주제
+
+<br>
+
 ## week_01 : 23.10.30 MON - 23.11.01 WED
 
 :star: 공통 주제: OS Introduction & Structures
 https://github.com/yonghwankim-dev/OperatingSystem_Study
+
+

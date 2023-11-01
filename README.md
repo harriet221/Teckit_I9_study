@@ -16,3 +16,7 @@ CS 스터디 - 아이구(I9)<br>
 
 :star: 공통 주제: OS Introduction & Structures
 https://github.com/yonghwankim-dev/OperatingSystem_Study
+
+
+## 커밋 메시지 규칙
+week00_name:본인주제

@@ -41,3 +41,8 @@
 - 스택 Segment : 함수, 지역 변수
 
 : 스택은 LIFO(Last In First Out)의 후입선출 구조로, 그 특성상 초반에 선언되는 전역변수는 스택에 저장했을 때 메모리를 비효율적으로 사용하게 됨. 이에 전역변수는 따로 데이터 영역에, 스택에는 함수와 지역변수를 저장하여, 메모리를 효율적으로 사용함.
+<br><br>
+
+#### 참조
+
+[프로세스 주소 공간](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Operating%20System/Process%20Address%20Space.md)

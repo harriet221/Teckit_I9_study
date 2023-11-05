@@ -1,7 +1,7 @@
 # Database Key
 
 ## Key란 ?
-- 검색, 정렬 시 tuple을 구분 할 수 있는 기준이 되는 속성/
+- 검색, 정렬 시 tuple을 구분 할 수 있는 기준이 되는 속성.
 - 한 객체가 다른 객체를 조인 및 인덱스 하기 위해 존재! (참조하는 객체는 PK(Primary Key)로 참조하려는 객체를 FK(Foreign Key)로 접근 가능)
   
 ![image](https://github.com/harriet221/Teckit_I9_study/assets/148305892/f0e97f69-ed3a-450a-bc3d-2d8cb235dbb2)

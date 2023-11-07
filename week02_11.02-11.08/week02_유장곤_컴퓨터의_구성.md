@@ -54,3 +54,6 @@
 컴퓨터는 기본적으로 읽고 처리한 뒤 저장하는 과정으로 이루어짐
 (READ → PROCESS → WRITE)
 이 과정을 진행하면서 끊임없이 주기억장치(RAM)과 소통한다. 이때 운영체제가 64bit라면, CPU는 RAM으로부터 데이터를 한번에 64비트씩 읽어온다.
+
+
+출처) https://gyoogle.dev/blog/computer-science/computer-architecture/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1.html

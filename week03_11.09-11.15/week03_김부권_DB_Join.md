@@ -77,7 +77,9 @@ FROM 테이블1 CROSS JOIN 테이블2;
 
 ### Self Join
 - 자기 자신을 회귀(Regression)하는 것을 의미
+
 ![](https://velog.velcdn.com/images/dnu05043/post/677147d3-f221-4c8f-9327-ef9c5a88cd1d/image.png)
+
 ```sql
 SELECT 속성명 
 FROM 테이블1 A JOIN 테이블1 B 

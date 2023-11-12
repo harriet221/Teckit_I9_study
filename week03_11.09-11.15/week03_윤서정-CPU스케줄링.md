@@ -69,7 +69,7 @@
      - 우선 순위가 낮은 프로세스가 무한정 기다리는 Starvation 이 생길 수 있음
      - Aging 방법으로 Starvation 문제 해결 가능
   2. **Round Robin**
-     - FCFS에 의해 프로세스들이 보내지면 각 프로세스는 동일한 시간의 `Time Quantum` 만큼 CPU를 할달 받음
+     - FCFS에 의해 프로세스들이 보내지면 각 프로세스는 동일한 시간의 `Time Quantum` 만큼 CPU를 할당 받음
      - 할당 시간(`Time Quantum`)이 크면 FCFS와 같게 되고, 작으면 문맥 교환 (Context Switching) 잦아져서 오버헤드 증가
   3. **Multilevel-Queue (다단계 큐)**
 
@@ -80,15 +80,15 @@
   4. **Multilevel-Feedback-Queue (다단계 피드백 큐)**
      - 다단계 큐에서 자신의 `Time Quantum`을 다 채운 프로세스는 밑으로 내려가고 자신의 `Time Quantum`을 다 채우지 못한 프로세스는 원래 큐에 남음
      - 짧은 작업에 유리, 입출력 위주(Interrupt가 잦은) 작업에 우선권을 줌
-     - 처리 시간이 짧은 프로세스를 먼저 처리하기 때문에 Turnaround 평균 시간을 줄여줌
+     - 처리 시간이 짧은 프로세스를 먼저 처리하기 때문에 Turn-around 평균 시간을 줄여줌
 
 ▼ 각각의 시스템 환경에 따라 선호되는 스케줄링 정책을 나타낸 표
 
-| 시스템 환경 | 선점(Preemptive)                                                | 비선점(Non-preemptive)           |
-| ----------- | --------------------------------------------------------------- | -------------------------------- |
-| 일괄처리    | Round Robin                                                     | FCFS / SJF / Priority Scheduling |
-| 대화형      | Round Robin / Priority Scheduling / Multilevel Queue Scheduling | X                                |
-| 실시간      | Earliest Deadline First (EDF)                                   | X                                |
+| 시스템 환경 | 선점(Preemptive)                                     | 비선점(Non-preemptive)           |
+| ----------- | ---------------------------------------------------- | -------------------------------- |
+| 일괄처리    | Round Robin                                          | FCFS / SJF / Priority Scheduling |
+| 대화형      | Round Robin / Priority Scheduling / Multilevel Queue | X                                |
+| 실시간      | Earliest Deadline First (EDF)                        | X                                |
 
 각각의 시스템에서 어떤 스케줄링 정책이 사용되는지는 그 시스템의 특성과 요구사항에 따라 다름.
 이는 일반적인 경향성을 보여주는 것이며, 실제 상황에 따라 다양하게 선택될 여지가 있음.

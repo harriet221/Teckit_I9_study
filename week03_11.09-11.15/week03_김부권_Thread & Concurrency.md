@@ -1,4 +1,4 @@
-# Thread & Concurrency
+# Thread & Concurrency 
 
 ## 스레드란?
 - 프로세스 내에서 실제로 작업하는 주체 (thread id, pc, register set, stack 으로 구성)

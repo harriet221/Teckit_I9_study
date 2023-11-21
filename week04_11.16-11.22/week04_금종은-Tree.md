@@ -2,7 +2,7 @@
 
 노드들이 나무 가지처럼 연결된 비선형 계층적 자료구조
 
-<img width="30%" src="https://github.com/jkeum-dev/Teckit_I9_study/assets/61774034/a7491bae-4651-40e7-a91d-639e92a686d8">
+<img width="25%" src="https://github.com/jkeum-dev/Teckit_I9_study/assets/61774034/a7491bae-4651-40e7-a91d-639e92a686d8">
 
 
 ## 트리 구조에서 사용되는 용어
@@ -84,5 +84,5 @@
 </br>
 
 > 참고 자료</br>
-[[자료구조] 트리 (Tree)](https://yoongrammer.tistory.com/68)</br>
+[Tistory | yoongrammer - [자료구조] 트리 (Tree)](https://yoongrammer.tistory.com/68)</br>
 [gyoogle/tech-interview-for-developer/Computer Science/Data Structure/Tree.md](https://github.com/gyoogle/tech-interview-for-developer/blob/master/Computer%20Science/Data%20Structure/Tree.md)

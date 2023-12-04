@@ -59,9 +59,6 @@
         <msub>
           <mn>7.625</mn>
           <mrow data-mjx-texclass="ORD">
-            <mo stretchy="false">(</mo>
-            <mn>10</mn>
-            <mo stretchy="false">)</mo>
           </mrow>
         </msub>
       </mtd>

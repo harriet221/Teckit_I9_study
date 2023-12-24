@@ -23,3 +23,11 @@
 - 백준 실습 1541
 
 [링크텍스트](https://velog.io/@dnu05043/%EB%B0%B1%EC%A4%80-Greedy-Algorithm-1541%EB%B2%88-%EB%AC%B8%EC%A0%9C)
+
+## 이론 참고 && 실습 사이트
+
+**이론**
+[링크텍스트](https://velog.io/@dnu05043/7cvjoyl6](https://velog.io/@contea95/%ED%83%90%EC%9A%95%EB%B2%95%EA%B7%B8%EB%A6%AC%EB%94%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)https://velog.io/@contea95/%ED%83%90%EC%9A%95%EB%B2%95%EA%B7%B8%EB%A6%AC%EB%94%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+
+**실습**
+[링크텍스트](https://velog.io/@dnu05043/%EB%B0%B1%EC%A4%80-Greedy-Algorithm-1541%EB%B2%88-%EB%AC%B8%EC%A0%9C](https://www.acmicpc.net/)https://www.acmicpc.net/)

@@ -47,6 +47,12 @@ private static long Fibonacci(int n) {
 	}
 ```
 
+#### 장점
+- 반복문 사용, 더 효율적인 메모리 사용
+
+#### 단점
+- 구현이 복잡해질 수 있음, 불필요한 계산산
+
 ### Top-Down 방식
 - 위에서 부터 문제를 파악해 내려오는 방식
 - 결과 값을 재귀를 통해 전이시켜 재활용하는 방식
@@ -69,6 +75,12 @@ private static long Fibonacci(int n) {
 		}
 	}
 ```
+
+#### 장점
+- 직관적인 구현, 필요한 부분만 계산
+
+#### 단점
+- 재귀 오버헤드, 메모리 사용량 多
 
 ## 실습
 https://velog.io/@dnu05043/%EB%B0%B1%EC%A4%80-Fibonacci-2747%EB%B2%88-%EB%AC%B8%EC%A0%9C
